@@ -36,7 +36,7 @@
     </div>
     <div class="content">
         <h2>Chào mừng đến với trang web của tôi!</h2>
-        <p>Đây là một trang web cơ bản được trang trí cho dịp Tết.</p>
+        <p>Đây là một trang web cơ bản được trang trí cho dịp sau Tết.</p>
         <?php
             echo "<p>Hôm nay là: " . date("Y/m/d") . "</p>";
         ?>
